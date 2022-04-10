@@ -21,3 +21,4 @@
 
 ## Graphics Leads
 
+[J J Thompson]()
