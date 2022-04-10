@@ -21,4 +21,4 @@
 
 ## Graphics Leads
 
-[J J Thompson]()
+[J J Thompson](https://github.com/samjn08)
