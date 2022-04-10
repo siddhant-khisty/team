@@ -11,8 +11,6 @@
 ## Moderators
 [Ashwin Kumar Uppala](https://github.com/ashwinexe)
 
-[Karuna Tata](https://github.com/starlightknown)
-
 [Abhishek Choudhary](https://github.com/shreemaan-abhishek)
 
 [Vyom Jain](https://github.com/Vyvy-vi)
