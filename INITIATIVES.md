@@ -1,6 +1,7 @@
 # Initiatives
 
 ## Events
+Feel free to reach out to folks for collab. Topics are upto you.
 1. Monthly Twitter Space
 2. Monthly Discord Space
 
