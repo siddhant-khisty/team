@@ -13,3 +13,6 @@ Feel free to reach out to folks for collab. Topics are upto you.
 ## Others
 1. Resume review channel in Discord
 2. A channel where folks can share their daily progress
+
+## Projects
+Need to think about getting some open source projects on your GitHub in various domains.
