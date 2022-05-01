@@ -13,6 +13,8 @@
 
 [Abhishek Choudhary](https://github.com/shreemaan-abhishek)
 
+[Karuna Tata](https://github.com/starlightknown/)
+
 [Vyom Jain](https://github.com/Vyvy-vi)
 
 [David Leal](https://github.com/Panquesito7)
