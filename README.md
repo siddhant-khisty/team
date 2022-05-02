@@ -8,17 +8,14 @@
 
 [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
-## Moderators
+## Community Events Manager
 [Ashwin Kumar Uppala](https://github.com/ashwinexe)
-
-[Abhishek Choudhary](https://github.com/shreemaan-abhishek)
 
 [Karuna Tata](https://github.com/starlightknown/)
 
-[Vyom Jain](https://github.com/Vyvy-vi)
-
-[David Leal](https://github.com/Panquesito7)
-
-## Graphics Leads
+## Graphics Manager
 
 [J J Thompson](https://github.com/samjn08)
+
+## Development Manager
+[Aakansha Priya](https://github.com/priyaaakansha)
