@@ -19,3 +19,11 @@
 
 ## Development Manager
 [Aakansha Priya](https://github.com/priyaaakansha)
+
+
+## Community Moderators
+[Abhishek Choudhary](https://github.com/shreemaan-abhishek)
+
+[Vyom Jain](https://github.com/Vyvy-vi)
+
+[David Leal](https://github.com/Panquesito7)
