@@ -13,6 +13,8 @@
 
 [Karuna Tata](https://github.com/starlightknown/)
 
+[Unnati Chhabra](https://github.com/unnati914)
+
 ## Graphics Manager
 
 [J J Thompson](https://github.com/samjn08)
