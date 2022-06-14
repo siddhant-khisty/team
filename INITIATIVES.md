@@ -2,6 +2,8 @@
 
 ## 👉 Events
 
+*All the essential planning about the events is done [here](https://www.notion.so/kaiwalyakoparkar/3567556249f64c6d95abf00fdc290f36?v=14a383e5b01d4e7cad00fe29fbf88bd9)*
+
 ### 1. Out of Syllabus
 Host - [Ashwin Kumar Uppala](https://github.com/ashwinexe)
 
