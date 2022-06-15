@@ -28,10 +28,6 @@ Description -
 ### 4. Discord AMA
 Panalists - Community Classroom Team
 
-## 👉 Programs
-
-### 1. Super 30
-
 ## 👉 Plans & Todos
 1. Resume/GitHub review channel in Discord
 2. A channel where folks can share their daily progress
