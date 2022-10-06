@@ -1,32 +1,30 @@
 <h1 align="center">Team</h1>
 
 ## Founder
-
 - [Kunal Kushwaha](https://github.com/kunal-kushwaha)
 
-## Program Managers
+## Program Manager
+- TBD
 
-- [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
-- [Siddhant Khisty](https://github.com/SiddhantKhisty)
+## Community Events
+- Hashnode: [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
 
-## Community Events Manager
+## Graphics 
+### [Resources](https://drive.google.com/drive/u/4/folders/1vCIXY64d6vNHn8SR5sQ-HmIvkn0SN-RA)
+- Lead (TBD)
+- [Susmita Dey](https://twitter.com/its_SusmitaDey)
+- Video editor - TBD
 
-- [Ashwin Kumar Uppala](https://github.com/ashwinexe)
-- [Karuna Tata](https://github.com/starlightknown/)
-- [Unnati Chhabra](https://github.com/unnati914)
+## Website
+- TBD
 
-## Graphics Manager
+## Content
+- Newsletter for Community Classroom and Kubeworld: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
-- [J J Thompson](https://github.com/samjn08)
-
-## Development Manager
-
-- [Aakansha Priya](https://github.com/priyaaakansha)
+## Socials
+- Instagram - TBD
+- Twitter: [Siddhant Khisty](https://github.com/SiddhantKhisty)
+- LinkedIn: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Community Moderators
-
-- [Abhishek Choudhary](https://github.com/shreemaan-abhishek)
-
-- [Vyom Jain](https://github.com/Vyvy-vi)
-
-- [David Leal](https://github.com/Panquesito7)
+- TBD
