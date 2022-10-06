@@ -1,4 +1,4 @@
-<h1 align="center">Team (both for Community Classroom and Kubeworld)</h1>
+# Team (Community Classroom and Kubeworld)
 
 ## Founder
 - [Kunal Kushwaha](https://github.com/kunal-kushwaha)
