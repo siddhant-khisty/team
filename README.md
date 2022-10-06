@@ -1,21 +1,26 @@
-<h1 align="center">Team</h1>
+<h1 align="center">Team (both for Community Classroom and Kubeworld)</h1>
 
 ## Founder
 - [Kunal Kushwaha](https://github.com/kunal-kushwaha)
 
 ## Program Manager
+Manages all the teams.
 - TBD
 
 ## Community Events
-- Hashnode: [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+Manages the community events.
+- Hashnode challenges: [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+- Hackathons - TBD
+- Twitter Spaces - TBD
 
 ## Graphics 
 ### [Resources](https://drive.google.com/drive/u/4/folders/1vCIXY64d6vNHn8SR5sQ-HmIvkn0SN-RA)
-- Lead (TBD)
-- [Susmita Dey](https://twitter.com/its_SusmitaDey)
+- Lead - TBD
 - Video editor - TBD
+- [Susmita Dey](https://twitter.com/its_SusmitaDey)
 
 ## Website
+Woudld work on open sourcing our websites.
 - TBD
 
 ## Content
@@ -27,4 +32,5 @@
 - LinkedIn: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Community Moderators
+For Discord and Telegram
 - TBD
