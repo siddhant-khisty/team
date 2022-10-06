@@ -5,13 +5,14 @@
 
 ## Program Manager
 Manages all the teams.
-- TBD
+- [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+- [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Community Events
 Manages the community events.
 - Hashnode challenges: [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
 - Hackathons - TBD
-- Twitter Spaces - TBD
+- Twitter Spaces - [Unnati Chhabra](https://twitter.com/Unnati_twts)
 
 ## Graphics 
 ### [Resources](https://drive.google.com/drive/u/4/folders/1vCIXY64d6vNHn8SR5sQ-HmIvkn0SN-RA)
@@ -20,7 +21,7 @@ Manages the community events.
 - [Susmita Dey](https://twitter.com/its_SusmitaDey)
 
 ## Website
-Woudld work on open sourcing our websites.
+Would work on open sourcing our websites.
 - TBD
 
 ## Content
