@@ -24,7 +24,7 @@ Would work on open sourcing our websites.
 - TBD
 
 ## Content
-- Newsletter for Community Classroom and Kubeworld: [Siddhant Khisty](https://github.com/SiddhantKhisty)
+- Newsletter for Community Classroom and Kubeworld: [Pooja Sanwal](https://twitter.com/poojaasanwal)
 
 ## Socials
 - Instagram - TBD
