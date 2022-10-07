@@ -9,7 +9,7 @@ Manages all the teams.
 
 ## Community Events
 Manages the community events.
-- Hashnode challenges: [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
+- Hashnode challenges: TBD
 - Hackathons - TBD
 - Twitter Spaces - [Unnati Chhabra](https://twitter.com/Unnati_twts)
 
