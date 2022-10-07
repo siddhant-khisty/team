@@ -21,7 +21,8 @@ Manages the community events.
 
 ## Website
 Would work on open sourcing our websites.
-- TBD
+- [Aayush Sharma](https://github.com/SuperAayush)
+- [Bhavya Sachdeva](https://github.com/bhavyastar)
 
 ## Content
 - Newsletter for Community Classroom and Kubeworld: [Pooja Sanwal](https://twitter.com/poojaasanwal)
