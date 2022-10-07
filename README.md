@@ -27,9 +27,10 @@ Would work on open sourcing our websites.
 - Newsletter for Community Classroom and Kubeworld: [Pooja Sanwal](https://twitter.com/poojaasanwal)
 
 ## Socials
-- Instagram - TBD
-- Twitter: [Siddhant Khisty](https://github.com/SiddhantKhisty)
-- LinkedIn: [Siddhant Khisty](https://github.com/SiddhantKhisty)
+- Posting and Scheduling: [Siddhant Khisty](https://github.com/SiddhantKhisty)
+- Instagram: TBD
+- Twitter: TBD
+- LinkedIn: TBD
 
 ## Community Moderators
 For Discord and Telegram
