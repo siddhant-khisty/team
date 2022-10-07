@@ -6,7 +6,6 @@
 ## Program Manager
 Manages all the teams.
 - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar)
-- [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Community Events
 Manages the community events.
