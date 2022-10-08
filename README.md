@@ -9,7 +9,7 @@ Manages all the teams.
 
 ## Community Events
 Manages the community events.
-- Hashnode challenges: TBD
+- Hashnode challenges: [Pooja Sanwal](https://twitter.com/poojaasanwal)
 - Hackathons - TBD
 - Twitter Spaces - [Unnati Chhabra](https://twitter.com/Unnati_twts)
 
@@ -25,7 +25,7 @@ Would work on open sourcing our websites.
 - [Bhavya Sachdeva](https://github.com/bhavyastar)
 
 ## Content
-- Newsletter for Community Classroom and Kubeworld: [Pooja Sanwal](https://twitter.com/poojaasanwal)
+- Newsletter for Community Classroom and Kubeworld: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Socials
 - Posting and Scheduling: [Siddhant Khisty](https://github.com/SiddhantKhisty)
