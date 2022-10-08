@@ -28,10 +28,9 @@ Would work on open sourcing our websites.
 - Newsletter for Community Classroom and Kubeworld: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Socials
-- Posting and Scheduling: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 - Instagram: TBD
-- Twitter: TBD
-- LinkedIn: TBD
+- Twitter: [Siddhant Khisty](https://github.com/SiddhantKhisty)
+- LinkedIn: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Community Moderators
 For Discord and Telegram
