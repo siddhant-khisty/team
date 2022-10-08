@@ -14,7 +14,7 @@ Manages the community events.
 - Twitter Spaces - [Unnati Chhabra](https://twitter.com/Unnati_twts)
 
 ## Graphics 
-### [Resources](https://drive.google.com/drive/u/4/folders/1vCIXY64d6vNHn8SR5sQ-HmIvkn0SN-RA)
+### [Resources](https://www.figma.com/file/EIB3K2YYmgIyF4jMMcqJV3/Community-Classroom?node-id=0%3A1)
 - Lead - TBD
 - Video editor - TBD
 - [Susmita Dey](https://twitter.com/its_SusmitaDey)
