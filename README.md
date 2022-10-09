@@ -12,6 +12,7 @@ Manages the community events.
 - Hashnode challenges: [Pooja Sanwal](https://twitter.com/poojaasanwal)
 - Hackathons - TBD
 - Twitter Spaces - [Unnati Chhabra](https://twitter.com/Unnati_twts)
+- Blog Moderator and Reviews: [Aakansha Priya](https://github.com/priyaaakansha)
 
 ## Graphics 
 ### [Resources](https://www.figma.com/file/EIB3K2YYmgIyF4jMMcqJV3/Community-Classroom?node-id=0%3A1)
