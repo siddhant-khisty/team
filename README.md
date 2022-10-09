@@ -19,7 +19,7 @@ Manages the community events.
 ## Graphics 
 ### [Resources](https://www.figma.com/file/EIB3K2YYmgIyF4jMMcqJV3/Community-Classroom?node-id=0%3A1)
 - Lead - TBD
-- Video editor - TBD
+- Video editor - [Rakshit Gondwal](https://github.com/rakshitgondwal)
 - [Susmita Dey](https://twitter.com/its_SusmitaDey)
 - [Shubham Pareek](https://twitter.com/baalakshubham?t=BJa0K2MT1ESjsxLWD8DLmQ&s=09)
 - [Kaushik Karan Singh](https://github.com/k562)
@@ -40,6 +40,7 @@ Would work on open sourcing our websites.
 - Twitter: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 - Twitter Threads: [Gauri Maheshwari](https://github.com/gauriimaheshwarii)
 - LinkedIn: [Siddhant Khisty](https://github.com/SiddhantKhisty)
+- Instagram: [Nikhil Kadam](https://github.com/Nick-h4ck3r)
 
 ## Community Moderators
 For Discord and Telegram
