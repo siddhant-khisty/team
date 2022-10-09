@@ -34,4 +34,11 @@ Would work on open sourcing our websites.
 
 ## Community Moderators
 For Discord and Telegram
-- TBD
+- [David Leal](https://github.com/Panquesito7)
+- [Ashwin Kumar Uppala](https://github.com/ashwinexe)
+- [Unnati Chhabra](https://twitter.com/Unnati_twts)
+- [Hamees Sayed](https://github.com/hamees-sayed)
+- [Abhay Taras](https://github.com/abhaytaras7)
+- [Karuna Tata](https://github.com/starlightknown)
+- [Abhishek Choudary](https://github.com/shreemaan-abhishek)
+- [Vyvom Jain](https://github.com/Vyvy-vi)
