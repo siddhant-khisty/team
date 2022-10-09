@@ -36,7 +36,6 @@ Would work on open sourcing our websites.
 - Newsletter for Community Classroom and Kubeworld: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Socials
-- Instagram: TBD
 - Twitter: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 - Twitter Threads: [Gauri Maheshwari](https://github.com/gauriimaheshwarii)
 - LinkedIn: [Siddhant Khisty](https://github.com/SiddhantKhisty)
