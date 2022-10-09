@@ -26,7 +26,6 @@ Would work on open sourcing our websites.
 - [Adarsh Dubey](https://github.com/inclinedadarsh)
 - [Yash Sehgal](https://github.com/yashsehgal)
 - [Siddhi Gate](https://github.com/siddhigate)
-- 
 
 ## Content
 - Newsletter for Community Classroom and Kubeworld: [Siddhant Khisty](https://github.com/SiddhantKhisty)
@@ -34,6 +33,7 @@ Would work on open sourcing our websites.
 ## Socials
 - Instagram: TBD
 - Twitter: [Siddhant Khisty](https://github.com/SiddhantKhisty)
+- Twitter Threads: [Gauri Maheshwari](https://github.com/gauriimaheshwarii)
 - LinkedIn: [Siddhant Khisty](https://github.com/SiddhantKhisty)
 
 ## Community Moderators
