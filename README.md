@@ -13,6 +13,9 @@ Manages the community events.
 - Hackathons - TBD
 - Twitter Spaces - [Unnati Chhabra](https://twitter.com/Unnati_twts)
 
+### Open Source Manager
+- [Anurag Pathak](https://github.com/AnuragThePathak)
+
 ## Graphics 
 ### [Resources](https://www.figma.com/file/EIB3K2YYmgIyF4jMMcqJV3/Community-Classroom?node-id=0%3A1)
 - Lead - TBD
