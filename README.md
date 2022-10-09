@@ -23,6 +23,10 @@ Manages the community events.
 Would work on open sourcing our websites.
 - [Aayush Sharma](https://github.com/SuperAayush)
 - [Bhavya Sachdeva](https://github.com/bhavyastar)
+- [Adarsh Dubey](https://github.com/inclinedadarsh)
+- [Yash Sehgal](https://github.com/yashsehgal)
+- [Siddhi Gate](https://github.com/siddhigate)
+- 
 
 ## Content
 - Newsletter for Community Classroom and Kubeworld: [Siddhant Khisty](https://github.com/SiddhantKhisty)
