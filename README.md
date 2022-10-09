@@ -21,6 +21,8 @@ Manages the community events.
 - Lead - TBD
 - Video editor - TBD
 - [Susmita Dey](https://twitter.com/its_SusmitaDey)
+- [Shubham Pareek](https://twitter.com/baalakshubham?t=BJa0K2MT1ESjsxLWD8DLmQ&s=09)
+- [Kaushik Karan Singh](https://github.com/k562)
 
 ## Website
 Would work on open sourcing our websites.
